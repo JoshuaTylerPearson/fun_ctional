@@ -1,0 +1,5 @@
+###
+simple exercises from:
+http://java4732.blogspot.in/2015/06/programming-challenges.html
+
+but in python and functional
